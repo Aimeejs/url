@@ -12,10 +12,15 @@ Also available for Node.js.
 * [On Npm as wurl](https://www.npmjs.com/package/wurl)
 
 
-## Bower Install
+## Aimee Install
 
+```sh
+aimee install url --save
 ```
-> bower install js-url
+
+## Usage
+```js
+const url = require('url')
 ```
 
 ## Notes

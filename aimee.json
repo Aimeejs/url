@@ -1,0 +1,15 @@
+{
+  "name": "url",
+  "version": "1.0.0",
+  "description": "url parse",
+  "author": "gavinning",
+  "keywords": [
+    "url",
+    "parse"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aimeejs/url.git",
+    "bugs": "https:/github.com/aimeejs/url/issues"
+  }
+}
